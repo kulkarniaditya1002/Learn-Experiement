@@ -1,4 +1,4 @@
-# Learning and Practice problems/algothims
+# Learn and Practice problems/algothims
 
 
  >  I solve these problems to get a strong understanding on the concepts like : DSA, NLP, Machine learning, Deep learning, computer science and engineering
